@@ -1,0 +1,23 @@
+.btn-circular{
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
+
+.fa-check{
+    position: relative;
+    top: -3px;
+    right: 5px;
+}
+
+.strike{
+    text-decoration: line-through;
+}
+.container{
+    margin-top: 10px;
+    align-items: center;
+}
+.counter{
+    margin: 0px;
+    padding: 5px;
+}
